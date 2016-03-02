@@ -39,7 +39,7 @@ body,
     transform: rotate(1deg);
   }
   100% {
-    transform: translateY(-2px) rotate(-1deg);
+    transform: translateY(-2px) rotate(0deg);
   }
 }
 

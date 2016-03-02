@@ -1,3 +1,3 @@
 # thoonks
-checking out the git pages
+scrolling images
 [link] http://briggsoft.github.io/thoonks/

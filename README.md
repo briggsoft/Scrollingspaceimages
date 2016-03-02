@@ -1,3 +1,3 @@
-# thoonks
+## thoonks
 scrolling images
-[link] http://briggsoft.github.io/thoonks/
+http://briggsoft.github.io/thoonks/

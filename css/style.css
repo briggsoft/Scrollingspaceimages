@@ -13,7 +13,7 @@ body,
 #wrapper {
   transform-style: preserve-2d;
   animation: moveb 50s infinite linear, back 15s linear;
-  background-image: url('https://github.com/briggsoft/Scrollingspaceimages/blob/master/basednasa.jpg?raw=true'), url('https://github.com/briggsoft/Scrollingspaceimages/blob/master/basednasa.jpg?raw=true');
+  background-image: url('https://raw.githubusercontent.com/briggsoft/Scrollingspaceimages/master/nasaimage/basednasa.jpg'), url('https://raw.githubusercontent.com/briggsoft/Scrollingspaceimages/master/nasaimage/basednasa.jpg');
   background-blend-mode: multiply;
  
 }

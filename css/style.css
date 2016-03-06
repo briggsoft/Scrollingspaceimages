@@ -13,7 +13,7 @@ body,
 #wrapper {
   transform-style: preserve-2d;
   animation: moveb 50s infinite linear, back 15s linear;
-  background-image: url('https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.wallpaperup.com%2Fuploads%2Fwallpapers%2F2013%2F03%2F24%2F63183%2F3b22e609acfc3adf9f06dde7ccdbcb63.jpg&f=1'), url('https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.wallpaperup.com%2Fuploads%2Fwallpapers%2F2013%2F03%2F24%2F63183%2F3b22e609acfc3adf9f06dde7ccdbcb63.jpg&f=1');
+  background-image: url('https://github.com/briggsoft/Scrollingspaceimages/blob/master/basednasa.jpg?raw=true'), url('https://github.com/briggsoft/Scrollingspaceimages/blob/master/basednasa.jpg?raw=true');
   background-blend-mode: multiply;
  
 }

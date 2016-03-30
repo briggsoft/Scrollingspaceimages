@@ -12,23 +12,12 @@ body,
 }
 #wrapper {
   transform-style: preserve-2d;
-  animation: moveb 50s infinite linear, back 15s linear;
+  animation: moveb 50s infinite linear, back 50s linear;
   background-image: url('https://raw.githubusercontent.com/briggsoft/Scrollingspaceimages/master/nasaimage/basednasa.jpg'), url('https://raw.githubusercontent.com/briggsoft/Scrollingspaceimages/master/nasaimage/basednasa.jpg');
   background-blend-mode: multiply;
  
 }
 
-@keyframes back {
-  0% {
-    transform: translateZ(-200px) scale(0);
-  }
-  50% {
-    transform: rotattex(20deg) translateZ(0) scale(0);
-  }
-  100% {
-    transform: rotatey(-20deg) translateZ(200px) scale(0);
-  }
-}
 
 
 @keyframes movep {
@@ -36,7 +25,7 @@ body,
     transform: rotate(0);
   }
   50% {
-    transform: rotate(1deg);
+    transform: rotate(0deg);
   }
   100% {
     transform: translateY(-2px) rotate(0deg);

@@ -1,15 +1,15 @@
 body,
 #wrapper {
   margin: 0;
-  height: 100px;
+  height: 150px;
   width: 100%;
-  overflow: hidden;
   transform-style: preserve-2d;
-  perspective: 1000px;
+  perspective: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
 #wrapper {
   transform-style: preserve-2d;
   animation: moveb 50s infinite linear, back 50s linear;
@@ -21,7 +21,7 @@ body,
 
 @keyframes moveb {
   from {
-    background-position: 0;
+    /*! background-position: 0; */
   }
   to {
     background-position: -1000px;

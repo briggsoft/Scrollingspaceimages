@@ -1,8 +1,8 @@
 body,
 #wrapper {
   margin: 0;
-  height: 100vh;
-  width: 100vw;
+  height: 100px;
+  width: 100%;
   overflow: hidden;
   transform-style: preserve-2d;
   perspective: 1000px;
@@ -18,19 +18,6 @@ body,
  
 }
 
-
-
-@keyframes movep {
-  0% {
-    transform: rotate(0);
-  }
-  50% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: translateY(-2px) rotate(0deg);
-  }
-}
 
 @keyframes moveb {
   from {
